@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+## Ways to Contact Me
+
+- Discord (prefered)
+  - lrmtheboss#7134
+- Reddit
+  - lrmtheboss
+- Github
+  - lrmtheboss
+
+## This Page is under construction
 <!--
 **lrmtheboss/lrmtheboss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
