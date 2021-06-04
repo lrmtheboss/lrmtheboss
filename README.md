@@ -27,6 +27,11 @@
   - Minecraft java 1.12.2 modpack
 - BossServerUtils (upcoming)
   - Spigot/Bungeecord 1.12.2+ plugin
+  - Java8+
+- BossPapiAddon (upcoming)
+  - Spigot 1.12.2+
+  - Java8+
+  - plugin for adding PlaceHolderAPI plcaeholders from a mariadb database
 
 ## Projects I Help With
 
