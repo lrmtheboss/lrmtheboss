@@ -2,6 +2,9 @@
 
 ## Ways To Reach Me
 
+- Guilded
+  - lrmtheboss
+  - [Link](Https://guilded.gg/lrmtheboss)
 - Reddit
   - lrmtheboss
 - GitHub
