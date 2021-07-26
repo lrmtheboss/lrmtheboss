@@ -42,6 +42,8 @@
   - Minecraft Java Network
 - Carnage MC
   - Minecraft Java Survival Server
+- EpixiaMC
+  - Minecraft Java Towny Server
 
 ## My Stats
 
