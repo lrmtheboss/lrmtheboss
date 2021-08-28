@@ -4,11 +4,13 @@
 
 - Guilded
   - lrmtheboss
-  - [Link](Https://guilded.gg/lrmtheboss)
+  - [Link](https://guilded.gg/lrmtheboss)
 - Reddit
   - lrmtheboss
 - GitHub
   - lrmtheboss
+- ~~Discord~~
+  - Don't use anymore do to being banned for nothing/without reason
 
 ## My Projects
 
@@ -16,7 +18,7 @@
   - Minecraft Java Network
 - BedrockMC
   - Minecraft Java Network
-- Boss Updates (Abandoned)
+- Boss Updates (Abandoned check discord above for reason)
   - Discord server for notifying users of updates for different thing from minecraft spigot plugins to pterodactyl and more
 - Boss Minecraft Services (Upcoming) (In Planning Stage)
   - Services to help minecraft server owners from building, configurating, planning, etc...
@@ -31,6 +33,11 @@
   - Spigot 1.12.2+
   - Java8+
   - plugin for adding PlaceHolderAPI plcaeholders from a mariadb database
+    - works best for placeholders that are static across a network
+- BossStaffLogger (Beta)
+  - Bungeecord 1.12+
+  - Java8+
+  - plugin for logging player joins and leaves to a file based on a group from luckperms or perm node
 
 ## Projects I Help With
 
@@ -38,12 +45,16 @@
   - Gaming Community with a Minecraft Java Server
 - Crafters Community
   - Community with a Minecraft Java Server
-- Souls Network
+- Souls Network (Abandoned)
   - Minecraft Java Network
 - Carnage MC
   - Minecraft Java Survival Server
 - EpixiaMC
+  - Minecraft Java Towny Earth Server
+- Verbrix
   - Minecraft Java Towny Server
+- ApexMC
+  - Minecraft Java Network
 
 ## My Stats
 
