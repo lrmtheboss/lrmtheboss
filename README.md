@@ -16,7 +16,7 @@
 
 - Boss Network (Abandoned)
   - Minecraft Java Network
-- BedrockMC
+- BedrockMC (Inactive)
   - Minecraft Java Network
 - Boss Updates (Abandoned check discord above for reason)
   - Discord server for notifying users of updates for different thing from minecraft spigot plugins to pterodactyl and more
@@ -41,9 +41,9 @@
 
 ## Projects I Help With
 
-- The Roaming Ranger
+- The Roaming Ranger (Inactive)
   - Gaming Community with a Minecraft Java Server
-- Crafters Community
+- Crafters Community (Abandoned)
   - Community with a Minecraft Java Server
 - Souls Network (Abandoned)
   - Minecraft Java Network
