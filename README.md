@@ -10,7 +10,7 @@
 - GitHub
   - lrmtheboss
 - ~~Discord~~
-  - Don't use anymore do to being banned for nothing/without reason
+  - Don't use anymore do to being banned for nothing/without reason and won't event talk to me about it
 
 ## My Projects
 
@@ -20,16 +20,16 @@
   - Minecraft Java Network
 - Boss Updates (Abandoned check discord above for reason)
   - Discord server for notifying users of updates for different thing from minecraft spigot plugins to pterodactyl and more
-- Boss Minecraft Services (Upcoming) (In Planning Stage)
+- Boss Minecraft Services (On Hold) (In Planning Stage)
   - Services to help minecraft server owners from building, configurating, planning, etc...
-- Boss Hosting (Upcoming) (In Planning Stage)
+- Boss Hosting (On Hold) (In Planning Stage)
   - Hosting for different things
-- BossCraft (on hold)
+- BossCraft (On Hold)
   - Minecraft java 1.12.2 modpack
-- BossServerUtils (upcoming)
+- BossServerUtils (On Hold)
   - Spigot/Bungeecord 1.12.2+ plugin
   - Java8+
-- BossPapiAddon (upcoming)
+- BossPapiAddon (On Hold)
   - Spigot 1.12.2+
   - Java8+
   - plugin for adding PlaceHolderAPI plcaeholders from a mariadb database
@@ -38,6 +38,11 @@
   - Bungeecord 1.12+
   - Java8+
   - plugin for logging player joins and leaves to a file based on a group from luckperms or perm node
+- BossLib
+  - libary plugin used in my other plugins to make my life easier
+  - Java8+
+  - Spigot (In Progress)
+  - Bungeecord (Upcoming)
 
 ## Projects I Help With
 
@@ -47,14 +52,12 @@
   - Community with a Minecraft Java Server
 - Souls Network (Abandoned)
   - Minecraft Java Network
-- Carnage MC
+- Carnage MC (Inactive)
   - Minecraft Java Survival Server
 - EpixiaMC
   - Minecraft Java Towny Earth Server
 - Verbrix
   - Minecraft Java Towny Server
-- ApexMC
-  - Minecraft Java Network
 
 ## My Stats
 
