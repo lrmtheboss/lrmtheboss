@@ -56,7 +56,7 @@
   - Minecraft Java Survival Server
 - EpixiaMC
   - Minecraft Java Towny Earth Server
-- Verbrix
+- Verbrix (Abandoned due to poor management)
   - Minecraft Java Towny Server
 
 ## My Stats
