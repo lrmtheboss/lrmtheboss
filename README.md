@@ -39,10 +39,14 @@
   - Java8+
   - plugin for logging player joins and leaves to a file based on a group from luckperms or perm node
 - BossLib (Not Public)
-  - libary plugin used in my other plugins to make my life easier
+  - libary/utilities plugin used in my other plugins to make my life easier
   - Java8+
-  - Spigot (In Progress)
-  - Bungeecord (Upcoming)
+  - Spigot
+  - Bungeecord
+- BossBlockChanger
+  - Spigot 1.12+
+  - Java 8+
+  - chnages certain blocks to other blocks per chunk as chunks are loaded
 
 ## Projects I Help With
 
