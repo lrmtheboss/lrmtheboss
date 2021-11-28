@@ -9,8 +9,6 @@
   - lrmtheboss
 - GitHub
   - lrmtheboss
-- ~~Discord~~
-  - Don't use anymore do to being banned for nothing/without reason and won't even talk to me about it
 
 ## My Projects
 
@@ -18,11 +16,9 @@
   - Minecraft Java Network
 - BedrockMC (Inactive)
   - Minecraft Java Network
-- Boss Updates (Abandoned check discord above for reason)
-  - Discord server for notifying users of updates for different thing from minecraft spigot plugins to pterodactyl and more
-- Boss Minecraft Services (On Hold) (In Planning Stage)
+- Boss Minecraft Services (On Hold)
   - Services to help minecraft server owners from building, configurating, planning, hosting, etc...
-- Boss Hosting (On Hold) (In Planning Stage)
+- Boss Hosting (On Hold)
   - Hosting for different things
 - BossCraft (On Hold)
   - Minecraft java 1.12.2 modpack
@@ -48,6 +44,8 @@
   - Java 8+
   - chnages certain blocks to other blocks per chunk as chunks are loaded
 
+I do have other projects that I am working on that are not listed here.
+
 ## Projects I Help With
 
 - The Roaming Ranger (Inactive)
@@ -58,10 +56,8 @@
   - Minecraft Java Network
 - Carnage MC (Inactive)
   - Minecraft Java Survival Server
-- EpixiaMC
+- EpixiaMC 
   - Minecraft Java Towny Earth Server
-- Verbrix (Abandoned due to poor and toxic management, and stolen information/files)
-  - Minecraft Java Towny Server
 
 ## My Stats
 
