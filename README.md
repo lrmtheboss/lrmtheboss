@@ -39,7 +39,7 @@
   - Java8+
   - Spigot
   - Bungeecord
-- BossBlockChanger
+- BossBlockChanger (On Hold)
   - Spigot 1.12+
   - Java 8+
   - chnages certain blocks to other blocks per chunk as chunks are loaded
@@ -56,7 +56,7 @@ I do have other projects that I am working on that are not listed here.
   - Minecraft Java Network
 - Carnage MC (Inactive)
   - Minecraft Java Survival Server
-- EpixiaMC 
+- EpixiaMC
   - Minecraft Java Towny Earth Server
 
 ## My Stats
