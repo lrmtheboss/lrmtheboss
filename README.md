@@ -13,7 +13,7 @@
 ## My Projects
 
 - Boss Network (Abandoned)
-  - Minecraft Java Netwo
+  - Minecraft Java Network
 - BedrockMC (Abandoned)
   - Minecraft Java Network
 - BossStaffLogger (Beta)
