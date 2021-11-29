@@ -14,37 +14,14 @@
 
 - Boss Network (Abandoned)
   - Minecraft Java Network
-- BedrockMC (Inactive)
+- BedrockMC (Abandoned)
   - Minecraft Java Network
-- Boss Minecraft Services (On Hold)
-  - Services to help minecraft server owners from building, configurating, planning, hosting, etc...
-- Boss Hosting (On Hold)
-  - Hosting for different things
-- BossCraft (On Hold)
-  - Minecraft java 1.12.2 modpack
-- BossServerUtils (On Hold)
-  - Spigot/Bungeecord 1.12.2+ plugin
-  - Java8+
-- BossPapiAddon (On Hold)
-  - Spigot 1.12.2+
-  - Java8+
-  - plugin for adding PlaceHolderAPI plcaeholders from a mariadb database
-    - works best for placeholders that are static across a network of servers
 - BossStaffLogger (Beta)
   - Bungeecord 1.12+
   - Java8+
-  - plugin for logging player joins and leaves to a file based on a group from luckperms or perm node
-- BossLib (Not Public)
-  - libary/utilities plugin used in my other plugins to make my life easier
-  - Java8+
-  - Spigot
-  - Bungeecord
-- BossBlockChanger (On Hold)
-  - Spigot 1.12+
-  - Java 8+
-  - chnages certain blocks to other blocks per chunk as chunks are loaded
+  - plugin for logging player joins and leaves to a file based on the current date, if they have the appropriate permissions or LuckPerms group.
 
-I do have other projects that I am working on that are not listed here.
+I have other projects that I am working on, but they are not listed here due to being private, server specific, on hold, in alpha stage, or cann't be listed for other reasons.
 
 ## Projects I Help With
 
