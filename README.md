@@ -1,14 +1,19 @@
 # Welcome to my profile
 
-## Ways To Reach Me
+## Social Links
 
 - Guilded
-  - lrmtheboss
-  - [Link](https://guilded.gg/lrmtheboss)
+  - [lrmtheboss](https://guilded.gg/lrmtheboss)
 - Reddit
-  - lrmtheboss
+  - [lrmtheboss](https://www.reddit.com/user/lrmtheboss)
 - GitHub
-  - lrmtheboss
+  - [lrmtheboss](https://github.com/lrmtheboss)
+- Skype
+  - [lrmtheboss](https://join.skype.com/invite/sgMpHGyLWZo6)
+
+### Contact Me
+
+Best way to contact me is using guilded or skype, Links above.
 
 ## My Projects
 
@@ -33,8 +38,10 @@ I have other projects that I am working on, but they are not listed here due to 
   - Minecraft Java Network
 - Carnage MC (Inactive)
   - Minecraft Java Survival Server
-- EpixiaMC
+- EpixiaMC (Inactive)
   - Minecraft Java Towny Earth Server
+
+There are other projects that i help with but can't be listed here due to being private or other reasons.
 
 ## My Stats
 
