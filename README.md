@@ -38,14 +38,14 @@ I have other projects that I am working on, but they are not listed here due to 
   - Minecraft Java Network
 - Carnage MC (Inactive)
   - Minecraft Java Survival Server
-- EpixiaMC (Inactive)
+- EpixiaMC (Abandoned)
   - Minecraft Java Towny Earth Server
 
-There are other projects that i help with but can't be listed here due to being private or other reasons.
+There are other projects that I help with but can't be listed here due to being private or other reasons.
 
 ## My Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lrmtheboss&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![LRMtheboss's GitHub stats](https://github-readme-stats.vercel.app/api?username=lrmtheboss&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lrmtheboss&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
