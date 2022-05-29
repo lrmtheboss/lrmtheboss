@@ -30,11 +30,11 @@ I have other projects that I am working on, but they are not listed here due to 
 
 ## Projects I Help With
 
-- The Roaming Ranger (Inactive)
+- The Roaming Ranger (Abandoned)
   - Gaming Community with a Minecraft Java Server
 - Crafters Community (Abandoned)
   - Community with a Minecraft Java Server
-- Souls Network (Abandoned)
+- Souls Network (Inactive)
   - Minecraft Java Network
 - Carnage MC (Inactive)
   - Minecraft Java Survival Server
@@ -42,6 +42,10 @@ I have other projects that I am working on, but they are not listed here due to 
   - Minecraft Java Towny Earth Server
 
 There are other projects that I help with but can't be listed here due to being private or other reasons.
+
+## My Minecraft Recommendations
+
+Due to me getting asked about recommendations, I have posted them [here](./Minecraft%20Recommendations/README.md).
 
 ## My Stats
 
