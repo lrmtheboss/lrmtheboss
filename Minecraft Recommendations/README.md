@@ -39,7 +39,7 @@ Software that dose not support Mods or Mod loaders such as Forge or Fabric.
 
 #### Plugin
 
-Spigot based server software and forks that support plugins.
+Spigot based server software and forks that supports plugins built on the bukkit api.
 I'd recommend using Paper as the bare minimum. Paper provides a lot of optimizations over spigot. Purpur is also great, it is a fork of paper with extra features from them and other server software such as pufferfish. Refer to their websites for more information.
 
 [Paper Website](https://papermc.io/)
@@ -52,7 +52,7 @@ I'd recommend using Paper as the bare minimum. Paper provides a lot of optimizat
 Software used to connect multiple servers together to form a *network* of servers.
 I'd recommend using Waterfall over Bungeecord as its Paper's fork of Bungeecord with more features and optimizations. Refer to their websites for more information.
 
-*Note: May support modded servers behind them but I highly recommend not putting them behind a proxy.*
+*Note: May support modded servers behind them but I highly recommend not putting a modded server behind a proxy.*
 
 [Waterfall Website](https://papermc.io/downloads#Waterfall)
 [Waterfall Documentation](https://paper.readthedocs.io/en/latest/#running-a-waterfall-proxy)
@@ -61,6 +61,9 @@ I'd recommend using Waterfall over Bungeecord as its Paper's fork of Bungeecord 
 ### Forge (Java Edition)
 
 Software that supports forge mods.
+
+[Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html) - standard forge server software (Recommended)
+[SpongeForge](https://www.spongepowered.org/downloads/spongeforge) - supports server side plugins as well, dose not work with certain mods.
 
 ## Plugins
 
