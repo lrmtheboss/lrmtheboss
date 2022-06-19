@@ -21,6 +21,8 @@ Best way to contact me is using guilded or skype, Links above.
   - Minecraft Java Network
 - BedrockMC (Abandoned)
   - Minecraft Java Network
+- TortugaMC
+  - Minecraft Java Survival Server
 - BossStaffLogger (Beta)
   - Bungeecord 1.12+
   - Java8+
@@ -40,12 +42,16 @@ I have other projects that I am working on, but they are not listed here due to 
   - Minecraft Java Survival Server
 - EpixiaMC (Abandoned)
   - Minecraft Java Towny Earth Server
+- Pixelblock (Sold)
+  - Minecraft Java & Bedrock Network
+- SwissPVP (Abandoned)
+  - Minecraft Java Network
 
 There are other projects that I help with but can't be listed here due to being private or other reasons.
 
 ## My Minecraft Recommendations
 
-Due to me getting asked about recommendations, I have posted them [here](./Minecraft%20Recommendations/README.md).
+Due to me getting asked about recommendations often, I have posted them [here](./Minecraft%20Recommendations/README.md).
 
 ## My Stats
 
@@ -54,17 +60,3 @@ Due to me getting asked about recommendations, I have posted them [here](./Minec
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lrmtheboss&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lrmtheboss&theme=dark)](https://git.io/streak-stats)
-<!--
-**lrmtheboss/lrmtheboss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
