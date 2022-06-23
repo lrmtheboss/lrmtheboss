@@ -1,5 +1,31 @@
 # Welcome to my profile
 
+## About Me
+
+Im a southern boy with a passion for technology, electrical systems, fiber optics, and more.
+
+My certifications are:
+
+- CFOT - Fiber Optic Technician
+- CFOS-S - Fiber Optic Specialization in Splicing
+- CFOS-O - Fiber optic Specialization in Outside plant
+- AMT - Advanced Manufacturing Technician (In Progress)
+
+My interests, skills, and hobbies include:
+
+- Electronics
+- Minecraft
+- Self-Hosting
+- Networking
+- Java Development
+- Web Development
+- SQL
+- Gaming
+- Broadcasting
+- Video Editing
+- Linux Administration
+- Old Ford Trucks and Broncos
+
 ## Social Links
 
 - Guilded
@@ -14,8 +40,11 @@
 ### Contact Me
 
 Best way to contact me is using guilded or skype, Links above.
+You can also email me at [contact@lrmtheboss.com](mailto:contact@lrmtheboss.com)
 
 ## My Projects
+
+These are projects I own completely or a majority of.
 
 - Boss Network (Abandoned)
   - Minecraft Java Network
@@ -30,7 +59,9 @@ Best way to contact me is using guilded or skype, Links above.
 
 I have other projects that I am working on, but they are not listed here due to being private, server specific, on hold, in alpha stage, or can't be listed for other reasons.
 
-## Projects I Help With
+## Other Projects
+
+These are projects I have worked on but are not owned by me of majority share.
 
 - The Roaming Ranger (Abandoned)
   - Gaming Community with a Minecraft Java Server
@@ -46,6 +77,8 @@ I have other projects that I am working on, but they are not listed here due to 
   - Minecraft Java & Bedrock Network
 - SwissPVP (Abandoned)
   - Minecraft Java Network
+- [UsefulMods](https://github.com/NordicGamerFE/usefulmods)
+  - A repository with useful mods for Minecraft
 
 There are other projects that I help with but can't be listed here due to being private or other reasons.
 
