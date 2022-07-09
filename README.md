@@ -36,6 +36,11 @@ My interests, skills, and hobbies include:
   - [lrmtheboss](https://github.com/lrmtheboss)
 - Skype
   - [lrmtheboss](https://join.skype.com/invite/sgMpHGyLWZo6)
+- WhatsApp
+  - [QR Code](https://i.imgur.com/d1qsMhO.png)
+- TeleGram
+  - [lrmtheboss](https://t.me/lrmtheboss)
+  - [QR Code](https://i.imgur.com/aSWPkfT.png)
 
 ### Contact Me
 
