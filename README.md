@@ -79,6 +79,8 @@ These are projects I have worked on but are not owned by me of majority share.
   - Minecraft Java Network
 - [UsefulMods](https://github.com/NordicGamerFE/usefulmods)
   - A repository with useful mods for Minecraft
+- Symbiplex
+  - Minecraft Java Network and Community
 
 There are other projects that I help with but can't be listed here due to being private or other reasons.
 
