@@ -44,7 +44,7 @@ My interests, skills, and hobbies include:
 
 ### Contact Me
 
-Best way to contact me is using guilded or skype, Links above.
+Best way to contact me is using whatsapp, telegram, or skype, Links above.
 You can also email me at [contact@lrmtheboss.com](mailto:contact@lrmtheboss.com)
 
 ## My Projects
