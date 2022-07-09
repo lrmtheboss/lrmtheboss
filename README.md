@@ -55,7 +55,7 @@ These are projects I own completely or a majority of.
   - Java8+
   - plugin for logging player joins and leaves to a file based on the current date, if they have the appropriate permissions or LuckPerms group.
 
-I have other projects that I am working on, but they are not listed here due to being private, server specific, on hold, in alpha stage, or can't be listed for other reasons.
+I have other projects that I am working on, but can't be listed for various reasons.
 
 ## Other Projects
 
@@ -82,7 +82,7 @@ These are projects I have worked on but are not owned by me of majority share.
 - Symbiplex
   - Minecraft Java Network and Community
 
-There are other projects that I help with but can't be listed here due to being private or other reasons.
+There are other projects that I help with but but can't be listed for various reasons.
 
 ## My Minecraft Recommendations
 
