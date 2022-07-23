@@ -28,6 +28,7 @@ Last updated: 2020-05-29
 Software used to launch the minecraft client.
 
 - [MultiMC](https://multimc.org/) My personal choice. Can handle multiple instances and accounts.
+- [PolyMC](https://polymc.com/) fork of MultiMC.
 
 ## Server Software
 
@@ -44,6 +45,7 @@ I'd recommend using Paper as the bare minimum. Paper provides a lot of optimizat
 
 [Paper Website](https://papermc.io/)
 [Paper Documentation](https://paper.readthedocs.io/en/latest/)
+
 [Purpur Website](https://purpurmc.org/)
 [Purpur Documentation](https://purpurmc.org/docs/)
 
@@ -56,6 +58,7 @@ I'd recommend using Waterfall over Bungeecord as its Paper's fork of Bungeecord 
 
 [Waterfall Website](https://papermc.io/downloads#Waterfall)
 [Waterfall Documentation](https://paper.readthedocs.io/en/latest/#running-a-waterfall-proxy)
+
 [BungeeCord Website](https://www.spigotmc.org/wiki/bungeecord/)
 
 ### Forge (Java Edition)
@@ -88,9 +91,15 @@ I will add these recommendations once I get them finished.
 External Tools for use with minecraft
 
 [MCEdit](https://www.mcedit.net/downloads.html) - [1.0 Direct Link](https://github.com/Podshot/MCEdit-Unified/releases) - no longer maintained - external world manipulation tool
+
 [MCA Selector](https://github.com/Querz/mcaselector/releases) - chunk manipulation tool
+
 [NBTExplorer](https://github.com/jaquadro/NBTExplorer/releases) - no longer maintained - NBT viewer and editor
+
 [Universal Minecraft Editor](https://www.universalminecrafteditor.com/)
+
 [Universal Minecraft Converter](https://www.universalminecraftconverter.com/)
+
 [Amulet](https://www.amuletmc.com/)
+
 [WorldPainter](https://www.worldpainter.net/) - custom world generator
