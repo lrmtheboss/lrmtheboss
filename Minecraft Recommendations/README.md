@@ -28,7 +28,7 @@ Last updated: 2020-05-29
 Software used to launch the minecraft client.
 
 - [MultiMC](https://multimc.org/) My personal choice. Can handle multiple instances and accounts.
-- [PolyMC](https://polymc.com/) fork of MultiMC.
+- [PolyMC](https://polymc.org/) fork of MultiMC.
 
 ## Server Software
 
