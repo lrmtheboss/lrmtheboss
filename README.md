@@ -8,12 +8,10 @@ My certifications are:
 
 - CFOT - Fiber Optic Technician
 - CFOS-S - Fiber Optic Specialization in Splicing
-- CFOS-O - Fiber optic Specialization in Outside plant
-- AMT - Advanced Manufacturing Technician (In Progress)
+- CFOS-O - Fiber Optic Specialization in Outside plant
 
 My interests, skills, and hobbies include:
 
-- Electronics
 - Minecraft
 - Self-Hosting
 - Networking
@@ -24,6 +22,7 @@ My interests, skills, and hobbies include:
 - Broadcasting
 - Video Editing
 - Linux Administration
+- Electronics
 - Old Ford Trucks and Broncos
 
 ## Social Links
@@ -59,6 +58,11 @@ These are projects I own completely or a majority of.
   - Bungeecord 1.12+
   - Java8+
   - plugin for logging player joins and leaves to a file based on the current date, if they have the appropriate permissions or LuckPerms group.
+- BossRemoteFiles (Alpha)
+  - Bungeecord and Spigot 1.12+
+  - Java8+
+  - Plugin for downloading files from a server for use byu other plugins. Best for networks that need the same file on multiple servers.
+  - Made to download from [BossFiles Repo](https://github.com/lrmtheboss/BossFiles)
 
 I have other projects that I am working on, but can't be listed for various reasons.
 
