@@ -4,11 +4,12 @@
 
 Im a southern boy with a passion for technology, electrical systems, fiber optics, and more.
 
-My certifications are:
+My degrees and certifications are:
 
 - CFOT - Fiber Optic Technician
 - CFOS-S - Fiber Optic Specialization in Splicing
 - CFOS-O - Fiber Optic Specialization in Outside plant
+- AIMT - Associate in Industrial Maintenance Technology (In Progress)
 
 My interests, skills, and hobbies include:
 
