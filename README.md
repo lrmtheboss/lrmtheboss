@@ -16,14 +16,17 @@ My interests, skills, and hobbies include:
 - Minecraft
 - Self-Hosting
 - Networking
+- Fiber Optics
 - Java Development
 - Web Development
 - SQL
 - Gaming
 - Broadcasting
 - Video Editing
-- Linux Administration
+- Linux System Administration
 - Electronics
+- Electrical Systems
+- HVAC Systems
 - Old Ford Trucks and Broncos
 
 ## Social Links
@@ -53,7 +56,7 @@ These are projects I own completely or a majority of.
 
 - Boss Network (Abandoned)
   - Minecraft Java Network
-- TortugaMC
+- TortugaMC (Inactive)
   - Minecraft Java Survival Server
 - BossStaffLogger (Beta)
   - Bungeecord 1.12+
