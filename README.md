@@ -86,8 +86,8 @@ These are projects I have worked on but are not owned by me of majority share.
   - Minecraft Java & Bedrock Network
 - SwissPVP (Abandoned)
   - Minecraft Java Network
-- [UsefulMods](https://github.com/NordicGamerFE/usefulmods)
-  - A repository with useful mods for Minecraft
+- [TheUsefulLists](https://github.com/TheUsefulLists)
+  - A GitHub Organization dedicated to making useful lists for various things in order to help others.
 - Symbiplex (Left)
   - Minecraft Java Network and Community
 
