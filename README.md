@@ -58,7 +58,7 @@ These are projects I own completely or a majority of.
   - Minecraft Java Network
 - TortugaMC (Inactive)
   - Minecraft Java Survival Server
-- BossStaffLogger (Beta)
+- [BossStaffLogger](https://github.com/lrmtheboss/BossStaffLogger) (Beta)
   - Bungeecord 1.12+
   - Java8+
   - plugin for logging player joins and leaves to a file based on the current date, if they have the appropriate permissions or LuckPerms group.
@@ -76,7 +76,7 @@ These are projects I have worked on but are not owned by me of majority share.
 
 - The Roaming Ranger (Abandoned)
   - Gaming Community with a Minecraft Java Server
-- Crafters Community (Abandoned)
+- Crafters Community (Abandoned - lost contact)
   - Community with a Minecraft Java Server
 - Souls Network (Inactive)
   - Minecraft Java Network
@@ -88,12 +88,14 @@ These are projects I have worked on but are not owned by me of majority share.
   - Minecraft Java Towny Earth Server
 - Pixelblock (Sold)
   - Minecraft Java & Bedrock Network
-- SwissPVP (Abandoned)
+- SwissPVP (Abandoned - lost contact)
   - Minecraft Java Network
 - [TheUsefulLists](https://github.com/TheUsefulLists)
   - A GitHub Organization dedicated to making useful lists for various things in order to help others.
 - Symbiplex (Left)
   - Minecraft Java Network and Community
+- Kelptron Network
+  - Minecraft Java Server and Community
 
 There are other projects that I help with but but can't be listed for various reasons.
 
