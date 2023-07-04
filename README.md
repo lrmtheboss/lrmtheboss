@@ -12,6 +12,7 @@ My degrees and certifications are:
 - AIMT - Associate in Industrial Maintenance Technology (In Progress)
 
 My interests, skills, and hobbies include:
+See [Games I Play](#games-i-play)
 
 - Minecraft
 - Self-Hosting
@@ -110,6 +111,17 @@ There are other projects that I help with but but can't be listed for various re
 ## My Minecraft Recommendations
 
 Due to me getting asked about recommendations often, I have posted them [here](./Minecraft%20Recommendations/README.md).
+
+## Games I Play
+
+- Factorio
+- Satisfactory
+- GTA Online
+- Minecraft
+- Fallout 4
+- Watch Dogs
+- Watch Dogs 2
+- Watch Dogs Legion
 
 ## My Stats
 
