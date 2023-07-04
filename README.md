@@ -30,6 +30,7 @@ See [Games I Play](#games-i-play)
 - HVAC Systems
 - Old Ford Trucks and Broncos
 - Locks and Keys
+- Machining
 
 ## Social Links
 
