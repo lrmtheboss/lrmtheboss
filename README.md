@@ -87,8 +87,6 @@ These are projects I have worked on but are not owned by me of majority share.
   - Minecraft Java Network
 - Carnage MC (Lost Contact)
   - Minecraft Java Survival Server
-- BedrockMC (Abandoned)
-  - Minecraft Java Network
 - EpixiaMC (Abandoned)
   - Minecraft Java Towny Earth Server
 - Pixelblock (Sold)
