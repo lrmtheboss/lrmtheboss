@@ -5,7 +5,7 @@ All of these are based on my own experience and my own personal preferences, ove
 
 If you think something is missing or want me to try something, please let me know!
 
-Last updated: 2020-05-29
+Last updated: 2023-7-3
 
 ## Contents
 
@@ -20,14 +20,14 @@ Last updated: 2020-05-29
   - [Plugins](#plugins)
     - [Server Side](#server-side)
     - [Proxy Side](#proxy-side)
-  - [Mods](#mods)
   - [Tools](#tools)
 
 ## Launchers
 
 Software used to launch the minecraft client.
 
-- [MultiMC](https://multimc.org/) My personal choice. Can handle multiple instances and accounts.
+- [MultiMC](https://multimc.org/) My old personal choice. Can handle multiple instances and accounts.
+- [Prism](https://prismlauncher.org/) My new personal choice. Has additional features over MultiMC.
 
 ## Server Software
 
@@ -78,12 +78,6 @@ Check [Server Software](#server-software) for recommendations on software to use
 ### [Proxy Side](./proxy-side-plugins.md)
 
 Check [Proxy Software](#proxy) for recommendations on proxy software.
-
-## Mods
-
-1.12.2 and below, I haven't keep up with anything newer then 1.12.2.
-
-I will add these recommendations once I get them finished.
 
 ## Tools
 
