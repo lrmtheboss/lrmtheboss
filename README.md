@@ -72,11 +72,6 @@ These are projects I own completely or a majority of.
   - Bungeecord 1.12+
   - Java8+
   - plugin for logging player joins, leaves and commands to a file based on the current date, if they have the appropriate permissions or LuckPerms group.
-- BossRemoteFiles (Alpha)
-  - Bungeecord and Spigot 1.12+
-  - Java8+
-  - Plugin for downloading files from a server for use byu other plugins. Best for networks that need the same file on multiple servers.
-  - Made to download from [BossFiles Repo](https://github.com/lrmtheboss/BossFiles)
 
 I have other projects that I am working on, but can't be listed for various reasons.
 
