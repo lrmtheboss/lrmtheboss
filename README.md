@@ -57,9 +57,14 @@ You can also email me at [contact@lrmtheboss.com](mailto:contact@lrmtheboss.com)
 
 These are projects I own completely or a majority of.
 
+- [HazardousMC](https://discord.gg/gJNRNGYwsZ)
+  - Minecraft Java Network
+  - Custom twist on regular survival
+- BedrockMC (Abandoned)
+  - Minecraft Java Network
 - Boss Network (Abandoned)
   - Minecraft Java Network
-- TortugaMC (Inactive)
+- TortugaMC (Abandoned)
   - Minecraft Java Survival Server
 - [BossStaffLogger](https://github.com/lrmtheboss/BossStaffLogger) (Beta)
   - Bungeecord 1.12+
@@ -81,9 +86,9 @@ These are projects I have worked on but are not owned by me of majority share.
   - Gaming Community with a Minecraft Java Server
 - Crafters Community (Abandoned - lost contact)
   - Community with a Minecraft Java Server
-- Souls Network (Inactive)
+- Souls Network (Abandoned)
   - Minecraft Java Network
-- Carnage MC (Inactive)
+- Carnage MC (Lost Contact)
   - Minecraft Java Survival Server
 - BedrockMC (Abandoned)
   - Minecraft Java Network
@@ -97,7 +102,7 @@ These are projects I have worked on but are not owned by me of majority share.
   - A GitHub Organization dedicated to making useful lists for various things in order to help others.
 - Symbiplex (Left)
   - Minecraft Java Network and Community
-- Kelptron Network
+- Kelptron Network (Left)
   - Minecraft Java Server and Community
 
 There are other projects that I help with but but can't be listed for various reasons.
