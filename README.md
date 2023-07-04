@@ -12,6 +12,7 @@ My degrees and certifications are:
 - AIMT - Associate in Industrial Maintenance Technology (In Progress)
 
 My interests, skills, and hobbies include:
+
 See [Games I Play](#games-i-play)
 
 - Minecraft
