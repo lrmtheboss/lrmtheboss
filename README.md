@@ -32,6 +32,8 @@ My interests, skills, and hobbies include:
 
 ## Social Links
 
+- Discord
+  - lrmtheboss
 - Guilded
   - [lrmtheboss](https://guilded.gg/lrmtheboss)
 - Reddit
