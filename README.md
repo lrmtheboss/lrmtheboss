@@ -71,7 +71,7 @@ These are projects I own completely or a majority of.
 - [BossStaffLogger](https://github.com/lrmtheboss/BossStaffLogger) (Beta)
   - Bungeecord 1.12+
   - Java8+
-  - plugin for logging player joins and leaves to a file based on the current date, if they have the appropriate permissions or LuckPerms group.
+  - plugin for logging player joins, leaves and commands to a file based on the current date, if they have the appropriate permissions or LuckPerms group.
 - BossRemoteFiles (Alpha)
   - Bungeecord and Spigot 1.12+
   - Java8+
