@@ -60,9 +60,6 @@ You can also email me at [contact@lrmtheboss.com](mailto:contact@lrmtheboss.com)
 
 These are projects I own completely or a majority of.
 
-- [HazardousMC](https://discord.gg/gJNRNGYwsZ)
-  - Minecraft Java Network
-  - Custom twist on regular survival
 - BedrockMC (Abandoned)
   - Minecraft Java Network
 - Boss Network (Abandoned)
@@ -100,6 +97,9 @@ These are projects I have worked on but are not owned by me of majority share.
   - Minecraft Java Network and Community
 - Kelptron Network (Left)
   - Minecraft Java Server and Community
+- [HazardousMC](https://discord.gg/gJNRNGYwsZ)
+  - Minecraft Java Network
+  - Custom twist on regular survival
 
 There are other projects that I help with but but can't be listed for various reasons.
 
