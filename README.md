@@ -93,7 +93,7 @@ These are projects I have worked on but are not owned by me of majority share.
   - Minecraft Java Network
 - [TheUsefulLists](https://github.com/TheUsefulLists)
   - A GitHub Organization dedicated to making useful lists for various things in order to help others.
-- Symbiplex (Left)
+- Symbiplex
   - Minecraft Java Network and Community
 - Kelptron Network (Left)
   - Minecraft Java Server and Community
