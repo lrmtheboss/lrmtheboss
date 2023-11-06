@@ -58,7 +58,7 @@ You can also email me at [contact@lrmtheboss.com](mailto:contact@lrmtheboss.com)
 
 ## My Projects
 
-These are projects I own completely or a majority of.
+These are projects I own completely or a majority share of.
 
 - BedrockMC (Abandoned)
   - Minecraft Java Network
@@ -75,7 +75,7 @@ I have other projects that I am working on, but can't be listed for various reas
 
 ## Other Projects
 
-These are projects I have worked on but are not owned by me of majority share.
+These are projects I have or currently work on but are not owned by me of majority share.
 
 - The Roaming Ranger (Abandoned)
   - Gaming Community with a Minecraft Java Server
@@ -100,6 +100,8 @@ These are projects I have worked on but are not owned by me of majority share.
 - [HazardousMC](https://discord.gg/gJNRNGYwsZ)
   - Minecraft Java Network
   - Custom twist on regular survival
+- AstrellaMC
+  - Minecraft Java Server
 
 There are other projects that I help with but but can't be listed for various reasons.
 
