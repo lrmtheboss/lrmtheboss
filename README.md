@@ -53,61 +53,34 @@ See [Games I Play](#games-i-play)
 
 ### Contact Me
 
-Best way to contact me is using discord, whatsapp, telegram, or then skype, Links above.
-You can also email me at [contact@lrmtheboss.com](mailto:contact@lrmtheboss.com)
+Best way to contact me is using discord, Link above.
+You may also email me at [contact@lrmtheboss.com](mailto:contact@lrmtheboss.com)
 
 ## My Projects
 
-These are projects I own completely or a majority share of.
+Projects I have an ownership stake in.
 
-- BedrockMC (Abandoned)
-  - Minecraft Java Network
-- Boss Network (Abandoned)
-  - Minecraft Java Network
-- TortugaMC (Abandoned)
-  - Minecraft Java Survival Server
 - [BossStaffLogger](https://github.com/lrmtheboss/BossStaffLogger) (Beta)
   - Bungeecord 1.12+
   - Java8+
   - plugin for logging player joins, leaves and commands to a file based on the current date, if they have the appropriate permissions or LuckPerms group.
+- [HazardousMC](https://discord.gg/gJNRNGYwsZ)
+  - Minecraft Java Network
+  - Custom twist on regular survival and prison.
+  - Custom gens type gamemode.
 
 I have other projects that I am working on, but can't be listed for various reasons.
 
 ## Other Projects
 
-These are projects I have or currently work on but are not owned by me of majority share.
+These are projects I currently assist with on but are not owned by me of majority share.
 
-- The Roaming Ranger (Abandoned)
-  - Gaming Community with a Minecraft Java Server
-- Crafters Community (Abandoned - lost contact)
-  - Community with a Minecraft Java Server
-- Souls Network (Abandoned)
-  - Minecraft Java Network
-- Carnage MC (Lost Contact)
-  - Minecraft Java Survival Server
-- EpixiaMC (Abandoned)
-  - Minecraft Java Towny Earth Server
-- Pixelblock (Sold)
-  - Minecraft Java & Bedrock Network
-- SwissPVP (Abandoned - lost contact)
-  - Minecraft Java Network
 - [TheUsefulLists](https://github.com/TheUsefulLists)
   - A GitHub Organization dedicated to making useful lists for various things in order to help others.
 - Symbiplex
   - Minecraft Java Network and Community
-- Kelptron Network (Left)
-  - Minecraft Java Server and Community
-- [HazardousMC](https://discord.gg/gJNRNGYwsZ)
-  - Minecraft Java Network
-  - Custom twist on regular survival
-- AstrellaMC
-  - Minecraft Java Server
 
 There are other projects that I help with but but can't be listed for various reasons.
-
-## My Minecraft Recommendations
-
-Due to me getting asked about recommendations often, I have posted them [here](./Minecraft%20Recommendations/README.md).
 
 ## Games I Play
 
@@ -115,6 +88,8 @@ By no means is this list comprehensive, these are merely the games I play and en
 
 - Factorio
 - Satisfactory
+- Space Engineers
+- Techtonica
 - GTA Online
 - Minecraft
 - Fallout 4
