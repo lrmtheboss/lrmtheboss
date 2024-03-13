@@ -4,83 +4,54 @@
 
 Im a southern boy with a passion for technology, electrical systems, fiber optics, and more.
 
-My degrees and certifications are:
-
-- CFOT - Fiber Optic Technician
-- CFOS-S - Fiber Optic Specialization in Splicing
-- CFOS-O - Fiber Optic Specialization in Outside plant
-- AIMT - Associate in Industrial Maintenance Technology (In Progress)
+Favorite Quote: Jack of all trade, master of none, oftentimes better than a master of one.
 
 My interests, skills, and hobbies include:
 
 See [Games I Play](#games-i-play)
 
-- Minecraft
+- Minecraft Server Administration
 - Self-Hosting
 - Networking
 - Fiber Optics
 - Java Development
-- Web Development
 - SQL
 - Gaming
 - Broadcasting
 - Video Editing
 - Linux System Administration
-- Electronics
+- Electronics (PLCs, Control Systems, etc.)
 - Electrical Systems
 - HVAC Systems
 - Old Ford Trucks and Broncos
 - Locks and Keys
 - Machining
 
-## Social Links
-
-- Discord
-  - lrmtheboss
-- Guilded
-  - [lrmtheboss](https://guilded.gg/lrmtheboss)
-- Reddit
-  - [lrmtheboss](https://www.reddit.com/user/lrmtheboss)
-- GitHub
-  - [lrmtheboss](https://github.com/lrmtheboss)
-- Skype
-  - [lrmtheboss](https://join.skype.com/invite/sgMpHGyLWZo6)
-- WhatsApp
-  - [QR Code](https://i.imgur.com/d1qsMhO.png)
-- TeleGram
-  - [lrmtheboss](https://t.me/lrmtheboss)
-  - [QR Code](https://i.imgur.com/aSWPkfT.png)
-
 ### Contact Me
 
-Best way to contact me is using discord, Link above.
+Best way to contact me is using Discord at 'lrmtheboss'.
 You may also email me at [contact@lrmtheboss.com](mailto:contact@lrmtheboss.com)
 
 ## My Projects
 
 Projects I have an ownership stake in.
 
-- [BossStaffLogger](https://github.com/lrmtheboss/BossStaffLogger) (Beta)
-  - Bungeecord 1.12+
-  - Java8+
-  - plugin for logging player joins, leaves and commands to a file based on the current date, if they have the appropriate permissions or LuckPerms group.
 - [HazardousMC](https://discord.gg/gJNRNGYwsZ)
   - Minecraft Java Network
-  - Custom twist on regular survival and prison.
+  - Custom twist on survival and prison.
   - Custom gens type gamemode.
-
-I have other projects that I am working on, but can't be listed for various reasons.
 
 ## Other Projects
 
 These are projects I currently assist with on but are not owned by me of majority share.
 
+- [DriveBackupV2](https://github.com/MaxMaeder/DriveBackupV2)
+  - [Discord](https://discord.gg/83mYV4jwpA)
+  - A Minecraft server backup plugin that supports multiple storage methods, external backups, and more.
 - [TheUsefulLists](https://github.com/TheUsefulLists)
   - A GitHub Organization dedicated to making useful lists for various things in order to help others.
-- Symbiplex
-  - Minecraft Java Network and Community
 
-There are other projects that I help with but but can't be listed for various reasons.
+I also freelance for various other projects.
 
 ## Games I Play
 
