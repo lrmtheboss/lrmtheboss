@@ -2,7 +2,7 @@
 
 ## About Me
 
-Im a southern boy with a passion for technology, electrical systems, fiber optics, and more.
+Im a southern Man with a passion for technology, electrical systems, fiber optics, and more.
 
 Favorite Quote: Jack of all trade, master of none, oftentimes better than a master of one.
 
@@ -34,19 +34,15 @@ You may also email me at [contact@lrmtheboss.com](mailto:contact@lrmtheboss.com)
 
 ## My Projects
 
-Projects I have an ownership stake in.
-
-- [HazardousMC](https://discord.gg/gJNRNGYwsZ)
-  - Minecraft Java Network
-  - Custom twist on survival and prison.
-  - Custom gens type gamemode.
+- BossLib
+  - My personal Java library that I use in many of my projects to help with common tasks.
 
 ## Other Projects
 
-These are projects I currently assist with on but are not owned by me of majority share.
+These are projects I currently assist with on but are not owned by me.
 
 - [DriveBackupV2](https://github.com/MaxMaeder/DriveBackupV2)
-  - [Discord](https://discord.gg/83mYV4jwpA)
+  - [Discord](https://discord.gg/Rng9w6zSRj)
   - A Minecraft server backup plugin that supports multiple storage methods, external backups, and more.
 - [TheUsefulLists](https://github.com/TheUsefulLists)
   - A GitHub Organization dedicated to making useful lists for various things in order to help others.
@@ -59,9 +55,7 @@ By no means is this list comprehensive, these are merely the games I play and en
 
 - Factorio
 - Satisfactory
-- Space Engineers
-- Techtonica
-- GTA Online
+- Dyson Sphere Program
 - Minecraft
 - Fallout 4
 - Watch Dogs
