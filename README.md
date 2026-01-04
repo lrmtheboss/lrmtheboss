@@ -2,7 +2,7 @@
 
 ## About Me
 
-Im a southern Man with a passion for technology, electrical systems, fiber optics, and more.
+Im a southern man with a passion for technology, electrical systems, fiber optics, and more.
 
 Favorite Quote: Jack of all trade, master of none, oftentimes better than a master of one.
 
@@ -39,15 +39,17 @@ You may also email me at [contact@lrmtheboss.com](mailto:contact@lrmtheboss.com)
 
 ## Other Projects
 
-These are projects I currently assist with on but are not owned by me.
+These are projects I currently assist with but are not owned by me.
 
+- Apocalyptic Gaming Network
+  - A run forever Minecraft server network that focuses on modded Minecraft.
+- RainsNetwork
+  - A Minecraft server network with a focus on decorativeness and player experience.
 - [DriveBackupV2](https://github.com/MaxMaeder/DriveBackupV2)
   - [Discord](https://discord.gg/Rng9w6zSRj)
   - A Minecraft server backup plugin that supports multiple storage methods, external backups, and more.
 - [TheUsefulLists](https://github.com/TheUsefulLists)
   - A GitHub Organization dedicated to making useful lists for various things in order to help others.
-
-I also freelance for various other projects.
 
 ## Games I Play
 
