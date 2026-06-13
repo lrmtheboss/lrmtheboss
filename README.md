@@ -65,6 +65,9 @@ By no means is this list comprehensive, these are merely the games I play and en
 - Watch Dogs
 - Watch Dogs 2
 - Watch Dogs Legion
+- Hydroneer
+- Cash Cleaner Simulator
+- Chess
 
 ## My Stats
 
