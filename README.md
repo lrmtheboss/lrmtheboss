@@ -41,10 +41,12 @@ You may also email me at [contact@lrmtheboss.com](mailto:contact@lrmtheboss.com)
 
 These are projects I currently assist with but are not owned by me.
 
-- Apocalyptic Gaming Network
+- Apocalyptic Gaming Network (APOC)
+  - [Discord](https://discord.gg/DkNYWzB)
   - A run forever Minecraft server network that focuses on modded Minecraft.
 - RainsNetwork
   - A Minecraft server network with a focus on decorativeness and player experience.
+  - [BlossomBox Discord](https://discord.gg/spY5n3FDhF)
 - [DriveBackupV2](https://github.com/MaxMaeder/DriveBackupV2)
   - [Discord](https://discord.gg/Rng9w6zSRj)
   - A Minecraft server backup plugin that supports multiple storage methods, external backups, and more.
